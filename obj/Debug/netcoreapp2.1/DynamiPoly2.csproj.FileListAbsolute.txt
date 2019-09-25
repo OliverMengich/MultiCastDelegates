@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\bin\Debug\netcoreapp2.1\DynamiPoly2.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\bin\Debug\netcoreapp2.1\DynamiPoly2.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\bin\Debug\netcoreapp2.1\DynamiPoly2.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\bin\Debug\netcoreapp2.1\DynamiPoly2.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\bin\Debug\netcoreapp2.1\DynamiPoly2.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DynamiPoly2\obj\Debug\netcoreapp2.1\DynamiPoly2.pdb
